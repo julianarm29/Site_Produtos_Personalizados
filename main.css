@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#navbar {
+    background-color: #007bf7 !important;
+}
+
+
+.navbar-nav .nav-link {
+    color: black;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-brand{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white !important;
+}
+
+.carousel-item img {
+    border: 2px solid #007bf7; 
+}
+
+.card {
+    border: 1px solid #007bf7;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.card-title {
+    font-weight: bold;
+    color: #007bf7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+
+#footers {
+    background-color: #007bf7 !important; 
+    color: black; 
+    text-align: center; 
+    padding: 20px 0; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:  18px;
+}
+
+#carousel h1 {
+    font-size: 32px;
+    color: #007bf7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#contatos h2,
+#sobre h2 {
+    color: #007bf7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 24px; 
+    margin-bottom: 20px; 
+}
+
+#contatos p,
+#sobre p {
+    font-size: 18px; 
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.6;
+}
